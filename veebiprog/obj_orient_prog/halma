@@ -1,0 +1,45 @@
+#include <iostream>
+
+using namespace std
+
+//Faili sisselugemine
+
+
+
+
+
+/*
+int halma[N][M]{
+	cout << "Ridade arv: ";
+	cin >> N;
+	cout << "Veergude arv: ";
+	cin >> M;
+}
+*/
+
+/*
+// Alguse positsioon
+int algus(int N_a, int M_a){
+	cout << "Rida alguses: ";
+	cin >> N_a;
+	cout << "Veerg alguses: ";
+	cin >> M_a;
+	Pos[2] = {N_a, M_a}
+}
+*/
+
+// Reeglid + hetke positsioon
+if(in Reeglid){
+	Reeglid() = {
+		Pos[0]+1 == '.',
+		Pos[0]-1 == '.',
+		Pos[0]+2 == '.' &&,
+		Pos[0]-2 == '.' &&,
+		Pos[1]+1 == '.',
+		Pos[1]-1 == '.',
+		Pos[1]+2 == '.' &&,
+		Pos[1]-2 == '.' &&,
+	}
+}
+
+Pos[0]+1 == '.' || Pos[0]-1 == '.' || Pos[0]+2 == '.' || Pos[0]-2 == '.') || 
